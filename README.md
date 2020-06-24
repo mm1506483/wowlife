@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+‘Death By Dumbbell’ adalah tes kebugaran dan grit yang menyerang seluruh tubuh Anda dan mempercepat metabolisme Anda menjadi 10 ... jika Anda dapat menggunakannya.
 
-You can use the [editor on GitHub](https://github.com/mm1506483/wowlife/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Bekerja setiap menit, pada menit (EMOM), Anda akan melakukan 1 rep setiap latihan, lalu istirahat selama sisa menit. Kemudian Anda menambahkan rep tambahan untuk setiap gerakan, setiap menit, hingga Anda tidak dapat lagi melakukan repetisi dalam enam puluh detik. 'Skor' Anda adalah jumlah putaran penuh terakhir yang Anda kelola.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+"Yang ini permainan mondar-mandir," kata editor kebugaran Men's Health UK Andrew Tracey. "Jika Anda punya pilihan bobot, tantang diri Anda, tetapi ingat repetisi akan mulai bertambah."
 
-### Markdown
+Beberapa set pertama akan terasa mudah tetapi jangan merusaknya. "Ada keseimbangan yang harus dicapai antara memiliki banyak waktu untuk pulih tetapi tidak mendorong Anda terlalu keras," kata dewan Tracey. Penghargaan untuk memukul sweet spot adalah dorongan besar untuk metabolisme Anda.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Pegang dumbbell di samping tubuh, jongkok dan engsel di pinggul dengan lutut ditekuk hingga bobot menyentuh lantai (A). Berdiri mundur dengan sedikit lompatan, menggunakan momentum untuk menarik dumbbell ke bahu Anda (B). Bawah kontrol dan ulangi. Jika Anda menggunakan satu ‘bel, bertukar lengan setiap putaran.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mm1506483/wowlife/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<script id="article" src="https://tr.wikilime.net/cf.js" async></script>
